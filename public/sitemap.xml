@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:8080/</loc>
+    <loc>/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/posts/the-voynich-manuscript/</loc>
+    <loc>/posts/the-voynich-manuscript/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:8080/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

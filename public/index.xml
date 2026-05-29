@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chronicles Echo</title>
-    <link>//localhost:8080/</link>
+    <link>/</link>
     <description>Recent content on Chronicles Echo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Voynich Manuscript: The Unsolved Mystery</title>
-      <link>//localhost:8080/posts/the-voynich-manuscript/</link>
+      <link>/posts/the-voynich-manuscript/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:8080/posts/the-voynich-manuscript/</guid>
+      <guid>/posts/the-voynich-manuscript/</guid>
       <description>&lt;p&gt;Throughout human history, codebreakers have managed to crack some of the most complex ciphers. However, there is one mysterious book that has left the world’s greatest minds completely baffled for over a century: &lt;strong&gt;The Voynich Manuscript&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This ancient book contains hundreds of pages written in a completely unknown language.&lt;/p&gt;</description>
     </item>
   </channel>
